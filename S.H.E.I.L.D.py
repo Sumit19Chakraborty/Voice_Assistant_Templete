@@ -27,11 +27,6 @@ from playsound import playsound
 from translate import Translator
 
 
-
-
-
-
-
 # Initialize the speech recognition object
 r = sr.Recognizer()
 
