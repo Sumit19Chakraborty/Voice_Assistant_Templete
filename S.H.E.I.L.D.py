@@ -40,7 +40,7 @@ engine.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices
 
 
 # Set up OpenAI API
-openai.api_key = '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'
+openai.api_key = 'PASTE YOUR OPENAI API KEY'
 model = "gpt-3.5-turbo"
 
 
